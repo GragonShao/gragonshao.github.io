@@ -4,15 +4,15 @@
 
 如下所示，找不到score.number，导致数据库插入失败
 
-![起因第1张图](../../asserts/images/bug-2024-03-20/8.jpg)
+![起因第1张图](../../asserts/images/2024-03-20_1/1.jpg)
 
 修复了score.number之后，又出现了word_practice.number的问题
 
-![起因第2张图](../../asserts/images/bug-2024-03-20/9.jpg)
+![起因第2张图](../../asserts/images/2024-03-20_1/2.jpg)
 
 ## 修复
 
-![起因第2张图](../../asserts/images/bug-2024-03-20/10.jpg)
+![起因第2张图](../../asserts/images/2024-03-20_1/3.jpg)
 
 
 
