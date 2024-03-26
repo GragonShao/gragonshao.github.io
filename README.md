@@ -16,6 +16,8 @@
 
 [Gemini：各国军队数量计算错误](article/ai/wrong/001_army-percent.md)
 
+[Gemini：询问markdown插入编程语言](article/ai/wrong/002_markdown-language.md)
+
 
 
 ## Test 中的BUG
